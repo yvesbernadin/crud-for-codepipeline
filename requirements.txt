@@ -1,5 +1,5 @@
 dj-database-url==0.5.0
 django
 
-gunicorn==20.1.0
+
 
